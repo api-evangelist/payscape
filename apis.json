@@ -1,0 +1,71 @@
+{
+    "name": "Payscape",
+    "description": "Financial technology for businesses of all sizes. Our dedication to payment technology is consistent, and our mission clear; to make it simple for business owners to collect payments. Whether you accept credit cards at a storefront, processes payments ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2174-payscape.jpg",
+    "tags": [
+        "has api",
+        "have api",
+        "insights",
+        "invoicing",
+        "lending",
+        "no api definition",
+        "payments",
+        "pci compliance",
+        "pos systems"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/payscape\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Payscape",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2174-payscape.jpg",
+            "humanURL": "https:\/\/payscape.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payscape-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payscape-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/payscape-advisors"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/payscape.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@payscape.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Payscape"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/_Payscape"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Payscape"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/payscape.com\/"
+        }
+    ]
+}
